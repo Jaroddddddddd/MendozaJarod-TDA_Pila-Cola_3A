@@ -1,0 +1,11 @@
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\bin\Debug\netcoreapp3.0\TareaPilaCola.exe
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\bin\Debug\netcoreapp3.0\TareaPilaCola.deps.json
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\bin\Debug\netcoreapp3.0\TareaPilaCola.runtimeconfig.json
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\bin\Debug\netcoreapp3.0\TareaPilaCola.runtimeconfig.dev.json
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\bin\Debug\netcoreapp3.0\TareaPilaCola.dll
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\bin\Debug\netcoreapp3.0\TareaPilaCola.pdb
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\obj\Debug\netcoreapp3.0\TareaPilaCola.csprojAssemblyReference.cache
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\obj\Debug\netcoreapp3.0\TareaPilaCola.AssemblyInfoInputs.cache
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\obj\Debug\netcoreapp3.0\TareaPilaCola.AssemblyInfo.cs
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\obj\Debug\netcoreapp3.0\TareaPilaCola.dll
+C:\Users\Jarod\source\repos\TareaPilaCola\TareaPilaCola\obj\Debug\netcoreapp3.0\TareaPilaCola.pdb
